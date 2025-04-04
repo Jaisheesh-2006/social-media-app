@@ -14,7 +14,6 @@ A full-stack social media web application built using React.js, Appwrite, Tailwi
 - **Frontend:** React.js, Tailwind CSS, React Router
 - **Backend:** Appwrite (Database, Authentication, Storage)
 - **State Management:** Context API
-- **Deployment:** Vercel
 
 ## Installation
 
@@ -46,11 +45,7 @@ A full-stack social media web application built using React.js, Appwrite, Tailwi
    npm run dev
    ```
 
-## Deployment
-To deploy on Vercel:
-```sh
-vercel deploy
-```
+
 
 ## License
 This project is licensed under the MIT License.
